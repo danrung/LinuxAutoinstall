@@ -26,6 +26,7 @@ autoinstall:
     - git
     - wget
     - gpg
+    - authd
 
   snaps: # (Optional) Install additional apps from this catalog: https://snapcraft.io/store
     - name: powershell
